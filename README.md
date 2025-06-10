@@ -1,4 +1,4 @@
-# A-Algorithm-Simulation
+# A* Algorithm Simulation for Diabetes Reduction Plan
 
 This project simulates the A* algorithm to identify a health improvement path for diabetes management. It uses a Tkinter GUI where users input their BMI, age, activity score, and diabetes level. The algorithm suggests optimal changes to reach a target diabetes level.
 
