@@ -78,10 +78,3 @@ def plot_graph(node, root):
 ### `main.py`
 - Handles Tkinter UI, imports from above modules, and connects everything.
 
-## Contribution
-
-Feel free to open issues or pull requests for improvements.
-
-## License
-
-[Specify your license here]
